@@ -15,7 +15,7 @@ body {
   background-color: black;
 }
 body::before {
-  background: url("https://loremflickr.com/600/400/water") no-repeat
+  background: url("https://images.pexels.com/photos/261403/pexels-photo-261403.jpeg") no-repeat
     center center/cover;
   content: "";
   position: absolute;
@@ -193,4 +193,5 @@ form
   background: #8e44ad;
   color: #fff;
   border: none;
+
 }
