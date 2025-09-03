@@ -50,7 +50,7 @@ body::before {
   color: transparent;
   font-weight: bold;
   text-align: center;
-  background: url("https://loremflickr.com/600/400/water") no-repeat
+  background: url("https://images.pexels.com/photos/261403/pexels-photo-261403.jpeg") no-repeat
     center center/cover;
   background-clip: text;
 }
@@ -194,5 +194,6 @@ form
   border: none;
 
 }
+
 
 
